@@ -8,7 +8,7 @@
       "gif": "assets/jumping_jacks.gif",
       "mensajes_contexto": {
         "manana": "¡Hora de acelerar el metabolismo y despertar por completo!",
-        "post_sedentarismo": "Rompamos esa rigidez, eleva tu ritmo cardíaco."
+        "post_sedentarismo": "Rompamos esa rigidez, activa la segunda marcha y eleva ese ritmo cardíaco."
       }
     },
     {
@@ -41,7 +41,7 @@
       "gif": "assets/good_mornings.gif",
       "mensajes_contexto": {
         "manana": "Estira suavemente la cadena posterior.",
-        "post_sedentarismo": "Libera toda la tensión acumulada en la espalda baja."
+        "post_sedentarismo": "Libera toda la tensión acumulada. ¡Ora ora ora! A romper ese sedentarismo."
       }
     }
   ]
