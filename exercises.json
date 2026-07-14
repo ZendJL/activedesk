@@ -1,0 +1,48 @@
+{
+  "ejercicios": [
+    {
+      "id": "jumping_jacks",
+      "nombre": "Jumping Jacks",
+      "tipo": "cardio",
+      "repeticiones_sugeridas": "40-50 reps",
+      "gif": "assets/jumping_jacks.gif",
+      "mensajes_contexto": {
+        "manana": "¡Hora de acelerar el metabolismo y despertar por completo!",
+        "post_sedentarismo": "Rompamos esa rigidez, eleva tu ritmo cardíaco."
+      }
+    },
+    {
+      "id": "sentadillas",
+      "nombre": "Sentadillas al aire",
+      "tipo": "tren_inferior",
+      "repeticiones_sugeridas": "20-25 reps",
+      "gif": "assets/squats.gif",
+      "mensajes_contexto": {
+        "manana": "Bombea sangre a las piernas para empezar fuerte.",
+        "post_sedentarismo": "Los glúteos llevan horas inactivos, ¡vamos a despertarlos!"
+      }
+    },
+    {
+      "id": "desk_pushups",
+      "nombre": "Flexiones en escritorio",
+      "tipo": "tren_superior",
+      "repeticiones_sugeridas": "15 reps",
+      "gif": "assets/pushups.gif",
+      "mensajes_contexto": {
+        "manana": "Activa el pecho y los hombros.",
+        "post_sedentarismo": "Ideal para abrir el pecho y corregir la postura tras horas de teclear."
+      }
+    },
+    {
+      "id": "buenos_dias",
+      "nombre": "Buenos días (Movilidad)",
+      "tipo": "movilidad",
+      "repeticiones_sugeridas": "15 reps",
+      "gif": "assets/good_mornings.gif",
+      "mensajes_contexto": {
+        "manana": "Estira suavemente la cadena posterior.",
+        "post_sedentarismo": "Libera toda la tensión acumulada en la espalda baja."
+      }
+    }
+  ]
+}
