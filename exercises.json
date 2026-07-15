@@ -16,7 +16,7 @@
       "nombre": "Sentadillas al aire",
       "tipo": "tren_inferior",
       "repeticiones_sugeridas": "20-25 reps",
-      "gif": "assets/squats.gif",
+      "gif": "assets/squats.png",
       "mensajes_contexto": {
         "manana": "Bombea sangre a las piernas para empezar fuerte.",
         "post_sedentarismo": "Los glúteos llevan horas inactivos, ¡vamos a despertarlos!"
@@ -38,7 +38,7 @@
       "nombre": "Buenos días (Movilidad)",
       "tipo": "movilidad",
       "repeticiones_sugeridas": "15 reps",
-      "gif": "assets/good_mornings.gif",
+      "gif": "assets/buenosdias.jpg",
       "mensajes_contexto": {
         "manana": "Estira suavemente la cadena posterior.",
         "post_sedentarismo": "Libera toda la tensión acumulada. ¡Ora ora ora! A romper ese sedentarismo."
